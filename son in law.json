@@ -10,7 +10,9 @@
       "volume": "",
       "last_updated": "1655084828",
       "groups": {
-        "": "/proxy/api/imgur/chapter/GWFy4NK"
+        "": [
+          "https://imgur.com/a/GWFy4NK"
+        ]
       }
     }
   }
